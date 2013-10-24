@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 class CalcView extends JFrame {
 	private static final long serialVersionUID = 1L;
-//as22
+//as222
     private JTextField 	userInputTf 	= new JTextField(5);
     private JTextField 	userInput2Tf 	= new JTextField(5);
     private JTextField 	totalTf     	= new JTextField(20);
